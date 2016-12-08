@@ -4,7 +4,7 @@
 const Bot = require("./bot");
 
 let token, db, channels;
-token = "MjU0Njg1MTEyMTcwNDQ2ODQ4.CySpgQ.7tmRG5PlcFIkpBKpk8AbE1J1gTU";
+token = "YOURTOKEN";
 db = "database.txt";
 channels = {
     "base10": "base10",
